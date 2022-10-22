@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Accurate Attack",
+    "details": "When you make an accurate attack (see Maneuvers, page 249) you can take a penalty of up to –5 on the effect modifier of the attack and add the same number (up to +5) to your attack bonus.",
+    "summary": "Trade effect DC for attack bonus.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Agile Feint",
+    "details": "You can use your Acrobatics bonus or movement speed rank in place of Deception to feint and trick in combat as if your skill bonus or speed rank were your Deception bonus (see the Deception skill description). Your opponent opposes the attempt with Acrobatics or Insight (whichever is better).",
+    "summary": "Feint using Acrobatics skill or Speed rank",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "All-out Attack",
+    "details": "When you make an all-out attack (see Maneuvers, page 249) you can take a penalty of up to –5 on your active defenses (Dodge and Parry) and add the same number (up to +5) to your attack bonus",
+    "summary": "Trade active defense for attack bonus.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Animal Empathy",
+    "details": "Skill",
+    "summary": "Use Interaction skills normally with animals.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Artificer",
+    "details": "Skill",
+    "summary": "Use Expertise (Magic) to create temporary magical devices.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Assessment",
+    "details": "General",
+    "summary": "Use Insight to learn an opponent's combat capabilities.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Attractive",
+    "details": "Skill",
+    "summary": "Circumstance bonus to interaction based on your looks.",
+    "atype": "Skill",
+    "ranked": true
+  },
+  {
+    "name": "Beginner's Luck",
+    "details": "",
+    "summary": "Spend a hero point to gain 5 temporary ranks in a skill.",
+    "atype": "Fortune",
+    "ranked": false
+  },
+  {
+    "name": "Benefit",
+    "details": "",
+    "summary": "Gain a significant perquisite or fringe benefit.",
+    "atype": "General",
+    "ranked": true
+  },
+  {
+    "name": "Chokehold",
+    "details": "",
+    "summary": "Suffocate an opponent you have successfully grabbed.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Close Attack",
+    "details": "",
+    "summary": "+1 bonus to close attack checks per rank.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Connected",
+    "details": "",
+    "summary": "Call in assistance or favors with a Persuasion check.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Contacts",
+    "details": "",
+    "summary": "Make an initial Investigation check in one minute.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Daze",
+    "details": "",
+    "summary": "Use Deception or Intimidation to daze an opponent.",
+    "atype": "Skill",
+    "ranked": true
+  },
+  {
+    "name": "Defensive Attack",
+    "details": "",
+    "summary": "Trade attack bonus for active defense bonus.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Defensive Roll",
+    "details": "",
+    "summary": "+1 active defense bonus to Toughness per rank.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Diehard",
+    "details": "",
+    "summary": "Automatically stablize when dying.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Eidetic Memory",
+    "details": "",
+    "summary": "Total recall, +5 circumstance bonus to remember things.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Equipment",
+    "details": "",
+    "summary": "5 points of equipment per rank.",
+    "atype": "General",
+    "ranked": true
+  },
+  {
+    "name": "Evasion",
+    "details": "",
+    "summary": "Circumstance bonus to avoid area effects.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Extraordinary Effort",
+    "details": "",
+    "summary": "Gain two benefits when using extra effort.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Fascinate",
+    "details": "",
+    "summary": "Use an interaction skill to entrance others.",
+    "atype": "Skill",
+    "ranked": true
+  },
+  {
+    "name": "Fast Grab",
+    "details": "",
+    "summary": "Make a free grab check after an unarmed attack.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Favored Environment",
+    "details": "",
+    "summary": "Circumstance bonus to attack or defense in an environment.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Favored Foe",
+    "details": "",
+    "summary": "Circumstance bonus to certain checks against a type of opponent.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Fearless",
+    "details": "",
+    "summary": "Immune to fear effects.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Grabbing Finesse",
+    "details": "",
+    "summary": "Substitute DEX for STR when making grab attacks.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Great Endurance",
+    "details": "",
+    "summary": "+5 checks involving endurance.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Hide in Plain Sight",
+    "details": "",
+    "summary": "Hide while observed without need for a diversion.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Improved Aim",
+    "details": "",
+    "summary": "Double circumstance bonuses for aiming.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improved Critical",
+    "details": "",
+    "summary": "+1 to critical threat range with an attack per rank.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Improved Defense",
+    "details": "",
+    "summary": "+2 bonus to active defense when you take the defend action.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improved Disarm",
+    "details": "",
+    "summary": "No penalty for the disarm action.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improved Grab",
+    "details": "",
+    "summary": "Make grab attacks with one arm.  Not vulnerable while grabbing.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improved Initiative",
+    "details": "",
+    "summary": "+4 bonus to initiative checks per rank.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Improved Hold",
+    "details": "",
+    "summary": "-5 circumstance penalty to escape from your holds.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improved Smash",
+    "details": "",
+    "summary": "No penalty for the smash action.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improved Trip",
+    "details": "",
+    "summary": "No penalty for the trip action.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Improvised Tools",
+    "details": "",
+    "summary": "No penalty for using skills without tools.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Improvised Weapon",
+    "details": "",
+    "summary": "Use Close Combat: Unarmed skill with improvised weapons, +1 damage bonus.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Inspire",
+    "details": "",
+    "summary": "Spend a hero point to grant allies a +1 circumstance bonus per rank.",
+    "atype": "Fortune",
+    "ranked": true
+  },
+  {
+    "name": "Instant Up",
+    "details": "",
+    "summary": "Stand from prone as a free action.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Interpose",
+    "details": "",
+    "summary": "Take an attack meant for an ally.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Inventor",
+    "details": "",
+    "summary": "Use Technology to create temporary devices.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Jack-of-All-Trades",
+    "details": "",
+    "summary": "Use any skill untrained.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Languages",
+    "details": "",
+    "summary": "Speak and understand additional languages.",
+    "atype": "Skill",
+    "ranked": true
+  },
+  {
+    "name": "Leadership",
+    "details": "",
+    "summary": "Spend a hero point to remove a condition from an ally.",
+    "atype": "Fortune",
+    "ranked": false
+  },
+  {
+    "name": "Luck",
+    "details": "",
+    "summary": "Re-roll a die once per rank.",
+    "atype": "Fortune",
+    "ranked": true
+  },
+  {
+    "name": "Minion",
+    "details": "",
+    "summary": "Gain a follower or minion with (15xrank) power points.",
+    "atype": "General",
+    "ranked": true
+  },
+  {
+    "name": "Move-by Action",
+    "details": "",
+    "summary": "Move both before and after your standard action.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Power Attack",
+    "details": "",
+    "summary": "Trade attack bonus for effect bonus.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Precise Attack",
+    "details": "",
+    "summary": "Ignore attack check penalties for either cover or concealment.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Prone Fighting",
+    "details": "",
+    "summary": "No penalties for fighting while prone.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Quick Draw",
+    "details": "",
+    "summary": "Draw a weapon as a free action.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Ranged Attack",
+    "details": "",
+    "summary": "+1 bonus to ranged attack checks per rank.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Redirect",
+    "details": "",
+    "summary": "Use Deception to redirect a missed attack at another target.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Ritualist",
+    "details": "",
+    "summary": "Use Expertise (Magic) to create and perform rituals.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Second Chance",
+    "details": "",
+    "summary": "Re-roll a failed check against a hazard once.",
+    "atype": "General",
+    "ranked": true
+  },
+  {
+    "name": "Seize Initiative",
+    "details": "",
+    "summary": "Spend a hero point to go first in the initiative order.",
+    "atype": "Fortune",
+    "ranked": false
+  },
+  {
+    "name": "Set-up",
+    "details": "",
+    "summary": "Transfer the benefit of an interaction skill to an ally.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Sidekick",
+    "details": "",
+    "summary": "Gain a sidekick with (5xrank) power points.",
+    "atype": "General",
+    "ranked": true
+  },
+  {
+    "name": "Skill Mastery",
+    "details": "",
+    "summary": "Make routine checks with one skill under any circumstances.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Startle",
+    "details": "",
+    "summary": "Use Intimidation to feint during combat.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Takedown",
+    "details": "",
+    "summary": "Free extra attack when you incapacitate a minion.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Taunt",
+    "details": "",
+    "summary": "Use Deception to demoralize in combat.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Teamwork",
+    "details": "",
+    "summary": "+5 bonus to support team checks.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Throwing Mastery",
+    "details": "",
+    "summary": "+1 damage bonus with thrown weapons per rank.",
+    "atype": "Combat",
+    "ranked": true
+  },
+  {
+    "name": "Tracking",
+    "details": "",
+    "summary": "Use Perception to follow tracks.",
+    "atype": "Skill",
+    "ranked": false
+  },
+  {
+    "name": "Trance",
+    "details": "",
+    "summary": "Go into a deathlike trance that slows bodily functions.",
+    "atype": "General",
+    "ranked": false
+  },
+  {
+    "name": "Ultimate Effort",
+    "details": "",
+    "summary": "Spend a hero point to get an effective 20 on a specific check.",
+    "atype": "Fortune",
+    "ranked": false
+  },
+  {
+    "name": "Uncanny Dodge",
+    "details": "",
+    "summary": "Not vulnerable when surprised or caught off-guard.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Weapon Bind",
+    "details": "",
+    "summary": "Free disarm attempt when you actively defend.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Weapon Break",
+    "details": "",
+    "summary": "Free smash attack when you actively defend.",
+    "atype": "Combat",
+    "ranked": false
+  },
+  {
+    "name": "Well-Informed",
+    "details": "",
+    "summary": "Immediate Investigation or Persuasion check to know something.",
+    "atype": "Skill",
+    "ranked": false
+  }
+]
